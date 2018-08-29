@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -n "Enter the first number: "; 
+e.cho -n "Enter the first number: "; 
 read x
 echo -n "Enter the second number: "; 
 read y 
